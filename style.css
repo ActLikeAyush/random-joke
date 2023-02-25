@@ -1,0 +1,16 @@
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center; 
+}
+p{
+  font-size: 30px;
+  display: flex;
+  margin: auto 10px;
+  color: gold;
+  border: 1px solid grey;
+  border-radius: 6px;
+  padding: 10px;
+}
