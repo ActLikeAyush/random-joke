@@ -8,15 +8,18 @@ html,body{
 p{
   font-size: 8vw;
   display: flex;
-  margin: auto 10px;
-  color: gold;
-  border: 1px solid grey;
-  border-radius: 20px;
+  margin: auto 50px;
+  color: #e99c16;
+  border: 1px solid gold;
+  border-style: dotted;
+  border-radius: 10px;
+  border-width: 3px;
   padding: 30px;
 }
 img{
   width: 800px;
-  height: 400px;
-  object-fit: none;
-  object-position: right bottom;
+        height: 500px;
+
+        object-fit: none;
+        object-position: right bottom;
 }
